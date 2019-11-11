@@ -7,7 +7,7 @@ The success in 2D image segmentation and object detection using deep learning mo
 1. resnet.ipynb  
    Generate train and validation input and target data, then train Resnet34Unet and calculate validation data loss
 
-2. test_data.ipynb
+2. test_data.ipynb  
    Generate test input data
    
 2. prediction_resnet.ipynb  
